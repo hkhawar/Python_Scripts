@@ -1,0 +1,5 @@
+
+# converting Jupytor Notebook to python script (use nbconvert command)  
+
+
+jupyter nbconvert --to script [YOUR_NOTEBOOK].ipynb
