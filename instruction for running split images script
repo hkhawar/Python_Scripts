@@ -1,0 +1,10 @@
+
+cd ~ Desktop
+
+makdir input  output 
+
+copy images to input folder
+
+use this command to execute script through terminal
+
+python3 split_tiff_files.py input output
